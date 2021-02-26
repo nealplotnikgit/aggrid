@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "gridapp"
+  "defaultProject": "gridapp",
+  "cli": {
+    "analytics": false
+  }
 }
